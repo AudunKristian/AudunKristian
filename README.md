@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my repositories
+
+Currently I have two projects which I collaborated on for DigDirCamp 2023. Have a look!
+
 
 <!--
 **AudunKristian/AudunKristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
