@@ -1,6 +1,6 @@
 ### Welcome to my repositories
 
-Currently I have two projects which I collaborated on for DigDirCamp 2023. Have a look!
+Currently I have two projects which I collaborated on at DigDirCamp 2023. Have a look!
 
 
 <!--
